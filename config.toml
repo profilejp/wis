@@ -4,25 +4,15 @@ disableKinds = ['taxonomy', 'term']
 theme = "identity"
 copyright = "2023 ProfileJP"
 
-baseURL = "https://sample.profile.jp.net"
-title = "ProfileJP Sample"
+baseURL = "https://profile.jp.net/wis/"
+title = "Wis - ProfileJP"
 
 [params]
-author = "Jane Doe"
+author = "Wis"
 icon = "avatar"
-description = "CONGUE PELLENTESQUE ELEIFEND"
+description = "Hello, World!"
 
 [[params.social]]
 name = "twitter"
 icon = "brands fa-twitter"
-url = "https://twitter.com/"
-
-[[params.social]]
-name = "instagram"
-icon = "brands fa-instagram"
-url = "https://www.instagram.com/"
-
-[[params.social]]
-name = "facebook"
-icon = "brands fa-facebook"
-url = "https://www.facebook.com/"
+url = "https://twitter.com/qn33"
