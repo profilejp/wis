@@ -1,0 +1,28 @@
+#hasCJKLanguage = true
+languageCode = "en"
+disableKinds = ['taxonomy', 'term']
+theme = "identity"
+copyright = "2023 ProfileJP"
+
+baseURL = "https://sample.profile.jp.net"
+title = "ProfileJP Sample"
+
+[params]
+author = "Jane Doe"
+icon = "avatar"
+description = "CONGUE PELLENTESQUE ELEIFEND"
+
+[[params.social]]
+name = "twitter"
+icon = "brands fa-twitter"
+url = "https://twitter.com/"
+
+[[params.social]]
+name = "instagram"
+icon = "brands fa-instagram"
+url = "https://www.instagram.com/"
+
+[[params.social]]
+name = "facebook"
+icon = "brands fa-facebook"
+url = "https://www.facebook.com/"
