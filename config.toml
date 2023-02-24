@@ -1,7 +1,5 @@
-#hasCJKLanguage = true
-languageCode = "en"
-disableKinds = ['taxonomy', 'term']
 theme = "identity"
+disableKinds = ['taxonomy', 'term']
 copyright = "2023 ProfileJP"
 
 baseURL = "https://profile.jp.net/wis/"
@@ -9,10 +7,10 @@ title = "Wis - ProfileJP"
 
 [params]
 author = "Wis"
-icon = "avatar"
+icon = "avatar/wis"
 description = "Hello, World!"
 
 [[params.social]]
 name = "twitter"
 icon = "brands fa-twitter"
-url = "https://twitter.com/qn33"
+url = "https://twitter.com/intent/user?user_id=2148889165"
