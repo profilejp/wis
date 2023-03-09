@@ -7,7 +7,7 @@ title = "Wis - ProfileJP"
 
 [params]
 author = "Wis"
-icon = "avatar/wis"
+icon = "wis"
 description = "Hello, World!"
 
 [[params.social]]
